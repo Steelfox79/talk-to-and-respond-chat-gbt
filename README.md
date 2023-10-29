@@ -1,4 +1,3 @@
-Voice-Powered AI Chatbot
 This Python script creates a voice-powered AI chatbot that uses OpenAI's GPT-3 for natural language processing. The chatbot listens to your voice commands, converts them to text, and responds with text-to-speech audio.
 
 Requirements
