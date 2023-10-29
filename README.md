@@ -34,4 +34,4 @@ Limitations
 Requires an internet connection to access the OpenAI and ElevenLabs APIs.
 Speech recognition accuracy may vary based on ambient noise and pronunciation.
 
-Feel free to contribute to this project by creating issues, suggesting improvements
+Feel free to contribute to this project by mentioning issues, suggesting improvements
